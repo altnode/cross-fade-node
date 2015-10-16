@@ -3,6 +3,8 @@
 [![NPM Version](http://img.shields.io/npm/v/altnode.cross-fade-node.svg?style=flat-square)](https://www.npmjs.org/package/altnode.cross-fade-node)
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](http://mohayonao.mit-license.org/)
 
+![graph](https://github.com/altnode/cross-fade-node/wiki/images/cross-fade-node.png)
+
 ## Installation
 
 ```
