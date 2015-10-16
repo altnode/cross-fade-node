@@ -1,14 +1,14 @@
 {
   "name": "altnode.cross-fade-node",
   "description": "altnode.CrossFadeNode",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Nao Yonamine <mohayonao@gmail.com>",
   "bugs": {
     "url": "https://github.com/altnode/cross-fade-node/issues"
   },
   "dependencies": {
-    "altnode.audio-node": "^0.1.1",
-    "altnode.dc-node": "^0.1.0"
+    "altnode.alt-audio-node": "^0.2.0",
+    "altnode.dc-node": "^0.2.0"
   },
   "devDependencies": {
     "babel": "^5.8.23",

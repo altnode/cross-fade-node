@@ -1,11 +1,11 @@
-import AudioNode from "altnode.audio-node";
+import AltAudioNode from "altnode.alt-audio-node";
 import DCNode from "altnode.dc-node";
 import CrossFadeCurves from "./CrossFadeCurves";
 import createZeroGain from "./createZeroGain";
 import createWaveShaper from "./createWaveShaper";
 import { INLETS, WAVESHAPERS, FADE, DC } from "./symbols";
 
-export default class CrossFadeNode extends AudioNode {
+export default class CrossFadeNode extends AltAudioNode {
   constructor(audioContext, curveType) {
     super(audioContext);
 
