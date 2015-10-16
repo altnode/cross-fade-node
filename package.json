@@ -6,7 +6,10 @@
   "bugs": {
     "url": "https://github.com/altnode/cross-fade-node/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "altnode.audio-node": "^0.1.1",
+    "altnode.dc-node": "^0.1.0"
+  },
   "devDependencies": {
     "babel": "^5.8.23",
     "babel-eslint": "^4.1.3",
