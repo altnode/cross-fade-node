@@ -1,0 +1,28 @@
+{
+  "name": "altnode.cross-fade-node",
+  "description": "altnode.CrossFadeNode",
+  "version": "0.0.0",
+  "author": "Nao Yonamine <mohayonao@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/altnode/cross-fade-node/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "package.json",
+    "README.md",
+    "index.js",
+    "lib"
+  ],
+  "homepage": "https://github.com/altnode/cross-fade-node",
+  "keywords": [
+    "Web Audio API"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/altnode/cross-fade-node.git"
+  },
+  "scripts": {}
+}
