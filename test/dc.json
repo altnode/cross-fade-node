@@ -1,0 +1,18 @@
+{
+  "buffer": {
+    "duration": 0.0029024943310657597,
+    "length": 128,
+    "name": "AudioBuffer",
+    "numberOfChannels": 1,
+    "sampleRate": 44100
+  },
+  "inputs": [],
+  "loop": true,
+  "loopEnd": 0,
+  "loopStart": 0,
+  "name": "AudioBufferSourceNode",
+  "playbackRate": {
+    "inputs": [],
+    "value": 1
+  }
+}
