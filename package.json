@@ -1,7 +1,7 @@
 {
   "name": "altnode.cross-fade-node",
   "description": "altnode.CrossFadeNode",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Nao Yonamine <mohayonao@gmail.com>",
   "bugs": {
     "url": "https://github.com/altnode/cross-fade-node/issues"
